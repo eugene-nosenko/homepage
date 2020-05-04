@@ -1,5 +1,5 @@
 #!/bin/sh
-if npx workbox generateSW workbox-config.js ; then
+if workbox generateSW workbox-config.js ; then
   git add sw.js
   exit 0
 else
