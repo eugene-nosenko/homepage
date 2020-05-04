@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "now": "^18.0.0",
     "serve": "^11.3.0",
     "workbox-cli": "^5.1.3"
   }
