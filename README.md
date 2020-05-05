@@ -10,7 +10,7 @@ https://eugene-finn.github.io/homepage/
 
 ## Integration with Zeit Now
 
-https://homepage-6u563pwvs.now.sh/
+https://homepage.eugene-finn.now.sh/
 
 ## Webhook by setting up a basic CI/CD process using Travis CI and AWS
 
